@@ -8,7 +8,7 @@ const Banner = () => {
             <div className="w-9 h-9 rounded-full border-2 border-gray-500 bg-gray-900 flex items-center justify-center">
             <ChevronDownIcon className="h-6 w-6 text-white" />
             </div>
-            <p>MY SERVICES</p>
+            <p>services</p>
         </div>
     </div>
   )
